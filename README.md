@@ -101,19 +101,6 @@ data-visualization-with-python
 
 ---
 
-# 📁 Datasets Included
-
-The repository includes multiple datasets for practice.
-
-| Dataset | Purpose |
-|---------|----------|
-| Iris | Classification Visualization |
-| Tips | Restaurant Data Analysis |
-| Flights | Time Series Visualization |
-| Sample Sales | Business Dashboard Practice |
-
----
-
 # 🚀 Real-World Notebooks
 
 ## Matplotlib
